@@ -19,7 +19,7 @@ class Todo extends Component {
 						Task description:
 						<input type="text" name="task" onChange={this.handleChange} />
 					</label>
-					<button type="submit" onClick={this.addTodo}>Add</button>
+					<button type="submit" onClick={this.addTodo}>Adddd</button>
 				</form>
 			</div>
 		)
